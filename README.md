@@ -10,4 +10,9 @@ a length of two for this program (The first two pieces are set manually before s
 for the rest). Otherwise you would have to adjust the startPlacing() function. Every number in the 
 snake-array denotes how many pieces there are until the next "turn". That's why the sections which 
 have a length of 3 are denoted with 2s here, because the first of the three is already placed by the 
-previous function call
+previous function call. 
+
+Figure 1 shows my specific cube and the corresponding array.
+
+<b>Figure 1</b>
+<img src='CubraSchema.png'/>
